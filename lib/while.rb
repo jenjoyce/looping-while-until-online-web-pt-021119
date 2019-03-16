@@ -3,7 +3,6 @@ def using_while
   puts "Wingardium leviosa"
   counter += 1
 	until counter == 10
-  #your code here
 end
 
 
